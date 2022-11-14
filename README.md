@@ -1,15 +1,15 @@
 Salut,
 
-Je suis Sam, futur développeur web full stack 💻
+Je suis Sam, développeur web junior 💻
 
-En formation à l'école Openclassrooms
+Diplomé de l'école Openclassrooms
 
 📚 J'apprends chaque jour de nouvelles choses et j'adore coder 👨‍💻 ...
 
 Tu trouveras sur ma page quelques projets [OC] que j'ai réalisé pour apprendre la programmation web 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------                            
-A la recherche d'un poste en cdi ou alternance à partir de novembre 2022.
+A la recherche d'un poste en cdi.
 
 🎯 Je recherche idéalement une entreprise pouvant m'aider à monter en compétence
 
@@ -17,13 +17,13 @@ A la recherche d'un poste en cdi ou alternance à partir de novembre 2022.
 
 🧰 Technos
 
-FrontEnd --> HTML / CSS / SASS / JAVASCRIPT / ...
+FrontEnd --> HTML / CSS / SASS / JAVASCRIPT / REACT / ...
 
-BackEnd --> NODE / MONGODB / ...
+BackEnd --> NODE / EXPRESS / MONGODB / ...
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 N'hésite pas à me contacter, je me ferai un plaisir de bavarder, échanger, partager avec toi
 
-linkedin.com/in/samuel-gustin-sgwebdev
+linkedin.com/in/sgwebdev
 
 A bientôt
